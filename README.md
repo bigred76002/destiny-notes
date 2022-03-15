@@ -1,4 +1,4 @@
 # Destiny Notes
 
 Guides:
-* https://github.com/cptylor/destiny-notes/blob/main/Vow-of-the-Disciple.md
+* [Vow of the Disciple for Dummies](https://github.com/cptylor/destiny-notes/blob/main/Vow-of-the-Disciple.md)
