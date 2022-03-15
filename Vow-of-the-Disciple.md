@@ -52,7 +52,7 @@ Unstoppable, add clear, burst damage heavy like Gally or sword. No preference to
 Rinse and repeat three times. 
 
 
-![Summary of the Acquisition Encounter](https://github.com/cptylor/destiny-notes/raw/main/vow-of-the-disciples-resources/1st_encounter_summary.jpg)
+![Summary of the Acquisition Encounter](https://github.com/cptylor/destiny-notes/raw/main/vow-of-the-disciples-resources/1st_encounter_summary.jpg "Summary of the Acquisition Encounter")
 
 ## Second Encounter -- Caretaker:
 
@@ -146,7 +146,7 @@ Rinse and repeat three times.
 
 ### Symbols Graphic
 
-![Symbols Graphic](https://raw.githubusercontent.com/cptylor/destiny-notes/main/vow-of-the-disciples-resources/VotD.png)
+![Symbols Graphic](https://raw.githubusercontent.com/cptylor/destiny-notes/main/vow-of-the-disciples-resources/VotD.png "All the official symbols used in the raid")
 
 
 ## Jumping puzzle
@@ -262,9 +262,9 @@ After the third encounter and on the way to the final boss there's a small jumpi
 
 #### Graphics
 
-![Third encounter full diagram](https://raw.githubusercontent.com/cptylor/destiny-notes/main/vow-of-the-disciples-resources/3rd_encounter_paths.jpg)
+![Third encounter full diagram](https://raw.githubusercontent.com/cptylor/destiny-notes/main/vow-of-the-disciples-resources/3rd_encounter_paths.jpg "Third encounter full diagram")
 
-![Third encounter split diagram](https://raw.githubusercontent.com/cptylor/destiny-notes/main/vow-of-the-disciples-resources/Vot-D-Encounter-3-V5.jpg)
+![Third encounter split diagram](https://raw.githubusercontent.com/cptylor/destiny-notes/main/vow-of-the-disciples-resources/Vot-D-Encounter-3-V5.jpg "Third encounter split diagram")
 
 ## Fourth Encounter -- Rhulk -- Final Boss:
 
@@ -310,7 +310,8 @@ After your first successful run per week PER ACCOUNT you will have the ability t
 
 ## Raid Loot Table
 
-![Raid Loot Table](https://raw.githubusercontent.com/cptylor/destiny-notes/main/vow-of-the-disciples-resources/Vow-of-the-Disciple-loot-table-infographic.jpg)
+[![Raid Loot Table](https://raw.githubusercontent.com/cptylor/destiny-notes/main/vow-of-the-disciples-resources/Vow-of-the-Disciple-loot-table-infographic.jpg "Raid Loot Guide by Blueberries.gg")](https://www.blueberries.gg/weapons/vow-of-the-disciple-loot-table/)
+
 
 ## Locations of Secret Rooms and Their Symbols
     
