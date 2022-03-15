@@ -25,7 +25,8 @@ Encounter:
 ## 1st Encounter: Acquisition
 
 ### Loadout
-Unstoppable, add clear, burst damage heavy like Gally or sword. No preference to super, add clear and stay alive; no boss.
+* Unstoppable, add clear, burst damage heavy like Gally or sword. No preference to super, add clear and stay alive; no boss.
+  * For runners, sword with eager's edge helps.
 
 ### Encounter
 
