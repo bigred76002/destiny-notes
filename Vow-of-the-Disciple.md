@@ -24,34 +24,26 @@ Encounter:
 
 ## 1st Encounter: Acquisition
 
-## Loadout
+### Loadout
 Unstoppable, add clear, burst damage heavy like Gally or sword. No preference to super, add clear and stay alive; no boss.
 
-## Encounter
+### Encounter
 
 * Three sets of two teams: defender and seeker
 * Arena is divided into two sides: Right side is dark, left side is light
 
 * Three symbols on totem:
      * Top is side where taken knight spawns, kill ASAP
+     * After the knight is dead the second symbol shows the room to go to. 
+     * Seeker goes to room and the third (bottom) symbol spawns. Defender calls out light or dark from the bottom symbol on the totem.
+     * Seeker kills Glyphkeeper (chieftain with solar shield) on the side that matches the third symbol (light/dark). Once the Glyphkeeper dies, champs will spawn near defenders. 
+     * Seeker then sees a new symbol will spawn where this chieftain died. Calls out and someone in the fireteam notates the call out. 
 
-After the knight is dead the second symbol shows the room to go to. 
-
-Seeker goes to room and the third (bottom) symbol spawns. Defender calls out light or dark from the bottom symbol on the totem.
-
-Seeker kills Glyphkeeper (chieftain with solar shield) on the side that matches the third symbol (light/dark). Once the Glyphkeeper dies, champs will spawn near defenders. 
-
-Seeker then sees a new symbol will spawn where this chieftain died. Calls out and someone in the fireteam notates the call out. 
-
-Each team does this, once per totem. Defender will say "Room is xxxx with xxxx side", seeker will call back "Room has XXXXX symbol"
-
-You are on a timer, this resets when the correct Glyphkeeper is killed inside each room.
-
-Once all 3 totems are done with their symbols and call outs, the obelisks near the totems will display 9 symbols each. Only one obelisk will have all three symbols. 
-
-Group up with two players per obelisk, look for the three symbols collected by the seekers. Once you identify the obelisk with all three, shoot the correct symbols at the same time, within about a half a second of each other. 
-
-If you're not fast enough, you'll see an animation on the obelisks wiping the symbols and redrawing them. Resume looking for the three symbols. You will have three chances. If you don't do it correctly by the third time, the team wipes. Each Obelisk will have all three symbols only ONCE during this encounter. After you clear a phase make sure to rule that Obelisk out and focus on the remaining ones that haven't had all three symbols yet.
+* Each team does this, once per totem. Defender will say "Room is xxxx with xxxx side", seeker will call back "Room has XXXXX symbol"
+* You are on a timer, this resets when the correct Glyphkeeper is killed inside each room.
+* Once all 3 totems are done with their symbols and call outs, the obelisks near the totems will display 9 symbols each. Only one obelisk will have all three symbols. 
+* Group up with two players per obelisk, look for the three symbols collected by the seekers. Once you identify the obelisk with all three, shoot the correct symbols at the same time, within about a half a second of each other. 
+* If you're not fast enough, you'll see an animation on the obelisks wiping the symbols and redrawing them. Resume looking for the three symbols. You will have three chances. If you don't do it correctly by the third time, the team wipes. Each Obelisk will have all three symbols only ONCE during this encounter. After you clear a phase make sure to rule that Obelisk out and focus on the remaining ones that haven't had all three symbols yet.
 
 Rinse and repeat three times. 
 
