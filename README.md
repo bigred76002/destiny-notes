@@ -1,6 +1,6 @@
 # Anomaly Clan Vow of the Disciple Walkthrough
 
-Brought to you by bigred76, CPTylor, and Tr1d3nT. Many thanks for the review to Scorpin09 as well.
+Brought to you by bigred76, cpTylor, and Tr1d3nT. Many thanks for the review to Scorpin09 as well.
 
 
 This walkthrough is meant as general advice, feel free to reach out for edits. Substitute supers/roles/weapons as you feel works best for your specific fireteam. There really is not a one size fits all for this, just use what works best for you if this isn't it. Make sure for boss DPS phases your fireteam agrees on one strategy. Having multiple strategies reduces DPS output therefore your chances for success. Be open to trying things, this is your sandbox. Get a little dirty and have some fun!
