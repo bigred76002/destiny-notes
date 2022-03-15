@@ -21,3 +21,7 @@ Encounter:
 **!!!IMPORTANT!!!** 
 * BEFORE DROPPING DOWN inside the pyramid! Check the totem in the middle of the big room. This has three symbols inside the three "secret" rooms you need to activate the wall plates in. The plate guide is at the end of this guide. You only need to activate the three shown, but if you forget what they are you CAN do all of them and still qualify for the extra chest at the final boss. To our understanding these must all be done on the same run, does not count off of a CP.
 * Droping down once you're inside the pyramid is rough. Bring a sword. Hunters can dive from the top. Otherwise, you WILL break your legs (and lose a potential flawless run). Titans can use heavy on Crown, just jump out and smash away. 
+
+## 1st Encounter: Acquisition
+
+![Summary of the Acquisition Encounter](https://github.com/cptylor/destiny-notes/raw/main/vow-of-the-disciples-resources/1st_encounter_summary.jpg)
