@@ -5,9 +5,19 @@ Brought to you by bigred76, cpTylor, and Tr1d3nT.
 
 This walkthrough is meant as general advice, feel free to reach out for edits. Substitute supers/roles/weapons as you feel works best for your specific fireteam. There really is not a one size fits all for this, just use what works best for you if this isn't it. Make sure for boss DPS phases your fireteam agrees on one strategy. Having multiple strategies reduces DPS output therefore your chances for success. Be open to trying things, this is your sandbox. Get a little dirty and have some fun!
 
-Image references for the encounters are after their respective sections. Major props to the ones that have created these for the Destiny 2 community.
+_Major props to the ones that have created images for the Destiny 2 community._ Authors are anotated on the images themselves, and all credits should go to them! When no author show, we created the image.
 
 An easy tool to use for the symbols found throughout the raid is here: https://disciple-glyphs.kapowaz.net/acquisition
+
+_**Table of Contents**_
+1. [Entrance](https://github.com/cptylor/destiny-notes/blob/main/Vow-of-the-Disciple.md#entrance-encounter)
+2. [First Encounter - Acquisition](https://github.com/cptylor/destiny-notes/blob/main/Vow-of-the-Disciple.md#first-encounter-acquisition)
+3. [Second Encounter - Caretaker](https://github.com/cptylor/destiny-notes/blob/main/Vow-of-the-Disciple.md#entrance-encounter)
+4. [Jumping ~~fun~~Puzzle](https://github.com/cptylor/destiny-notes/blob/main/Vow-of-the-Disciple.md#jumping-puzzle)
+5. [Thid Encounter - Artifacts](https://github.com/cptylor/destiny-notes/blob/main/Vow-of-the-Disciple.md#third-encounter----artifacts)
+6. [Fourth Encounter - Rhulk](https://github.com/cptylor/destiny-notes/blob/main/Vow-of-the-Disciple.md#fourth-encounter----rhulk----final-boss)
+7. [Raid Loot Table](https://github.com/cptylor/destiny-notes/blob/main/Vow-of-the-Disciple.md#raid-loot-table)
+8. [Location of Secret Rooms and Their Symbnols](https://github.com/cptylor/destiny-notes/blob/main/Vow-of-the-Disciple.md#locations-of-secret-rooms-and-their-symbols)
 
 ## Entrance Encounter
 
