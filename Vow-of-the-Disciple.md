@@ -52,7 +52,7 @@ Unstoppable, add clear, burst damage heavy like Gally or sword. No preference to
 Rinse and repeat three times. 
 
 
-![Summary of the Acquisition Encounter](https://github.com/cptylor/destiny-notes/raw/main/vow-of-the-disciples-resources/1st_encounter_summary.jpg "Summary of the Acquisition Encounter")
+<img src="https://github.com/cptylor/destiny-notes/raw/main/vow-of-the-disciples-resources/1st_encounter_summary.jpg" width="700">
 
 ## Second Encounter -- Caretaker:
 
@@ -146,7 +146,9 @@ Rinse and repeat three times.
 
 ### Symbols Graphic
 
-![Symbols Graphic](https://raw.githubusercontent.com/cptylor/destiny-notes/main/vow-of-the-disciples-resources/VotD.png "All the official symbols used in the raid")
+For a quick list of symbols and their Bungie-given names:
+
+<img src="https://raw.githubusercontent.com/cptylor/destiny-notes/main/vow-of-the-disciples-resources/VotD.png" width="700">
 
 
 ## Jumping puzzle
@@ -262,9 +264,13 @@ After the third encounter and on the way to the final boss there's a small jumpi
 
 #### Graphics
 
-![Third encounter full diagram](https://raw.githubusercontent.com/cptylor/destiny-notes/main/vow-of-the-disciples-resources/3rd_encounter_paths.jpg "Third encounter full diagram")
+See this diagram for path of each of the artefacts:
 
-![Third encounter split diagram](https://raw.githubusercontent.com/cptylor/destiny-notes/main/vow-of-the-disciples-resources/Vot-D-Encounter-3-V5.jpg "Third encounter split diagram")
+<img src="https://raw.githubusercontent.com/cptylor/destiny-notes/main/vow-of-the-disciples-resources/3rd_encounter_paths.jpg" width=450>
+
+ For detailed view of the maps of each room and spawn locations, view this map:
+ 
+<img src="https://raw.githubusercontent.com/cptylor/destiny-notes/main/vow-of-the-disciples-resources/Vot-D-Encounter-3-V5.jpg" width=700>
 
 ## Fourth Encounter -- Rhulk -- Final Boss:
 
@@ -282,6 +288,8 @@ After starting the encounter by a player running forward far enough, one player 
 
 After receiving the first buff, this player will stand on the black plate to split the debuff. While the player with the buff is standing on the plate two more shards will show, left and right. The two other fireteam members on the Debuff and Dunk Team will shoot the two shards and gain the Leeching debuff while the original loses it. One of these players will jump into the laser beam attack to turn the debuff into Emanating Force. This player will run forward and dunk the debuff into the pillar called out by the add clear team. This player then calls out for the split for the other player that still has the Leeching buff to keep 
 
+<img src="https://raw.githubusercontent.com/cptylor/destiny-notes/main/vow-of-the-disciples-resources/destiny-2-vow-of-the-disciple-rhulk-leeching-force-cycle.png" width=250>
+
 If the Leeching debuff is lost, either due to death or accidentally turning both into Emanating, another shard will appear above the boss's head in the center. DO NOT LOSE SECOND LEECHING, this is a wipe mechanic. 
  
 
@@ -296,21 +304,18 @@ After the charge attack, the boss leaves behind his relic. One designated player
 
 Full DPS phase comes after enough dunks. This boss just goes HAM, shoot the shit out of him. Someone will try to apply Div as best they can as he bounces around the room kicking people and shooting Darkness/burning beams. Do your best to avoid him and do as much damage as possible. His crit points are the weak spots you shot earlier. If your team is not using Div or it's not applied and your team chose a precision weapon (linear fusion over RL's), aim for these points to maximize your damage. The phase ends when he goes immune and power poses. Run down to the starting area. If you dilly-dally the shield comes up and pushes you. If you're in the air you will get pushed further and have a high chance of being thrown off the map. 
 
+<img src="https://raw.githubusercontent.com/cptylor/destiny-notes/main/vow-of-the-disciples-resources/Presentation1.png" width=500>
 
 During the Final Stand mechanic you gain stacks of darkness buff quickly. Getting caught in his beam attacks you will gain stacks of darkness. Standing next to him will give stacks of darkness. Basically you need to do more damage faster than you've ever done before or you're dead and it's a wipe. While you are whittling the boss down to this phase be mindful of the line and your ammo. You very likely will be best off calling damage prior to hitting the final stand and getting more ammo and your supers back for this.
 
 
 After your first successful run per week PER ACCOUNT you will have the ability to purchase ONE Resonant (red bordered) weapon for 20 spoils. You will be given the option from all the ones that you have unlocked so far. Subsequent purchases made are random rolls. Make sure to pick one up as you will need 5 to craft them. 
 
-#### Graphic
-
-![Rhulk's Arena Image](https://raw.githubusercontent.com/cptylor/destiny-notes/main/vow-of-the-disciples-resources/Presentation1.png)
-
-![Final stage buff transfer diagram](https://raw.githubusercontent.com/cptylor/destiny-notes/main/vow-of-the-disciples-resources/destiny-2-vow-of-the-disciple-rhulk-leeching-force-cycle.png)
-
 ## Raid Loot Table
 
-[![Raid Loot Table](https://raw.githubusercontent.com/cptylor/destiny-notes/main/vow-of-the-disciples-resources/Vow-of-the-Disciple-loot-table-infographic.jpg "Raid Loot Guide by Blueberries.gg")](https://www.blueberries.gg/weapons/vow-of-the-disciple-loot-table/)
+See below what loot each encounter may drop:
+
+<img src="https://raw.githubusercontent.com/cptylor/destiny-notes/main/vow-of-the-disciples-resources/Vow-of-the-Disciple-loot-table-infographic.jpg" width=500>
 
 
 ## Locations of Secret Rooms and Their Symbols
