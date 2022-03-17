@@ -383,8 +383,3 @@ Pyramid - Right after HUGE initial dropdown in pyramid. Make a 180, darkness cry
 * Light - Directly after second encounter. Start of jump puzzle in outside room with first darkness shard to move platforms (tons of scorn;before symbol wall). Door and shard to open on left.
 * Guardian - Right after 3rd encounter. Up stairs on left. Crystal is floating off of ledge and room is 180 from the direction of boss arena.
 * Kill - RIGHT before boss arena. Jump up multi-level platforms leading to final doors to boss. Crystal 180 degrees from direction of boss arena, in the air. Opens door on right (facing boss)."
- 
- Video:
- 
- <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ayQWhcS8Zzw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
