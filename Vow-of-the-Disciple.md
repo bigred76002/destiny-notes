@@ -232,56 +232,50 @@ This room introduces Taken Relic, a THIRD artifact. It will spawn in the third d
 
 When swapping relics, remember to make sure everyone is ready because by depositing the Resonate Shard it resets the Terminal Resonance timer fully. When all THREE relics are picked up the door will open. 
 
-!!!REMEMBER!!! If a player falls with a relic, the relic will respawn in the room you picked them up from. Backtrack calmly and quickly and pick it up to continue the encounter. The run CAN be salvaged as long as you remain calm and make your jumps.
+**!!!REMEMBER!!!** 
+If a player falls with a relic, the relic will respawn in the room you picked them up from. Backtrack calmly and quickly and pick it up to continue the encounter. The run CAN be salvaged as long as you remain calm and make your jumps.
 
-VOG shield goes right, Resonant Shard goes left, one additional player goes with each to clear ads and read symbols. Blight clearer goes ping pong, follow the map. If the blight spawns on the left, the next will be on the right. Moving too quickly results in the Taken Blights respawning, so stick with the group as much as possible and don't get too far ahead.
+* VOG shield goes right, Resonant Shard goes left. One additional player will go with each to clear adds and read symbols. 
+* Blight clearer goes ping pong, follow the map. If the blight spawns on the left, the next will be on the right. Moving and clearing the blights too quickly results in the Taken Blights respawning, so stick with the group as much as possible and don't get too far ahead. Be aware and make sure that if they respawn you get there as fast as possible to clear it again.
 
 
 **!!!IMPORTANT!!!** 
 * Shielded Taken Knights MUST be killed by walnut beam, knocking them off the center platform is a WIPE since you cannot progress!
 
-In this room they always appear on the platform in the middle of the room. Resonant Shard holder needs to keep an eye on the timer to reset as late as possible to maximize time. You will only get 40 seconds added to the clock but you want to get as many of those as possible. You will need to look down to the platform and shoot from top as they always spawn in the same location.
+In this room they always appear on the platform in the middle of the room. Resonant Shard holder needs to keep an eye on the timer to reset as late as possible to maximize time. You will only have 40 seconds added to the clock but you want to get as many of those added back as you can. If you can wait a couple seconds to maximize this please do so. You will need to look down to the platform and shoot from top as they always spawn in the same location.
 
-Team Left (Resonant Shard +1) kills/reads left corners of rooms and Team Right (VoG+1) the right. In this room only the 6th person is add clear/roam that can go on the opposite side of Taken blight cleanser. 
+Team Left (Resonant Shard +1) kills/reads left corners of rooms and Team Right (VoG+1) the right. 
 
-VoG CLEANSE has 3 cleansing locations:
+VoG cleanse has three cleansing locations:
 * Entry right corner (where the Glyphkeeper spawns) cleanse right team and read 
-* Then jumps across to left side to cleanse left team at the bottom of the stairs. 
-* Then move to between left and right exit corners to have teams cleanse there. 
+* Then jumps across to left side to cleanse left team at the top of the stairs by where the Glyphkeeper was on the left. 
+* Then move to between left and right top corners to have teams cleanse there as needed.
  
-The exit  is at the north side of the room. Beware of the screebs here, they spawn right inside the doorway as it opens. Best practice is to either wait for them to spawn or just jump over them to a safe distance, then kill them immediately.
+The exit is at the north side of the room. Beware of the screebs here, they spawn right inside the doorway as it opens. Best practice is to either wait for them to spawn or just jump over them to a safe distance, then kill them immediately.
 
-
-**!!!IMPORTANT!!!** 
-* Shielded Taken Knights MUST be killed by walnut beam, knocking them off the center platform is a WIPE since you cannot progress!
-
-In this room they always appear on the platform in the middle of the room. Resonant Shard holder needs to keep an eye on the timer to reset as late as possible to maximize time. You will need to look down to the platform and shoot from top as they always spawn in the same location.
-
-Team Left (Resonant Shard +1) kills/reads left corners of rooms and Team Right (VoG+1) the right. In this room only the 6th person is add clear/roam that can go on the opposite side of Taken blight cleanser. 
-
-VoG cleanser has 3 cleansing locations. 
-Entry right corner (where the Glyphkeeper spawns) cleanse the right team and read the symbols, then jumps across to exit left corner to cleanse the left team at the bottom of the stairs. Then move to between left and right exit corners to have teams cleanse there. Exit right corner you drop down into a room. 
 
 
 #### Fourth Room 
 This room is built around platforms. It is not bad once you get into it but take the easy jumps you know you can make in your sleep. There are two sets of symbols and Taken Knights for this room.
 
-Again the Taken relic will cleanse back and forth and will need a second player with them to stun overloads and kill adds. The first blight will be out on a very narrow ledge, be careful. After that just go back and forth like normal.
+* The Taken relic will cleanse back and forth and will need a second player with them to stun overloads and kill adds. The first blight will be out on a very narrow ledge, be careful. After that just go back and forth like normal.
 
-The VOG relic holder will move to a central platform and hold position, moving up as the room is cleared for a central cleansing location. Movement of the VOG relic to either side is not needed and has been found to be much more simple if it is stationary for the cleansing. 
+* The VOG relic holder will move to a central platform and hold position, moving up as the room is cleared for a central cleansing location. Movement of the VOG relic to either side is not needed and has been found to be much more simple if it is stationary for the cleansing. 
 
-The Nut Gun holder will need to be mobile as the Taken Knights can be difficult to see. They will both spawn on the platforms in the middle of the room: the first on the one at the back of the right one and the second on the far middle one. Be mobile or you will not see the first spawn as there are pillars that he likes to hide behind. This player should take his defender as well as the one from the VOG shield relic to increase efficiency.
+* The Nut Gun holder will need to be mobile as the Taken Knights can be difficult to see. They will both spawn on the platforms in the middle of the room: the first on the one at the back of the right one and the second on the far middle one. 
+     * Be mobile or you will not see the first spawn as there are pillars that he likes to hide behind. This player should take his defender as well as the one from the VOG shield relic to increase efficiency.
 
-!!!REMEMBER!!! If a player falls with a relic, the relic will respawn in the room you picked them up from. Backtrack calmly and quickly and pick it up to continue the encounter. The run CAN be salvaged as long as you remain calm and make your jumps. 
+**!!!REMEMBER!!!** 
+If a player falls with a relic, the relic will respawn in the room you picked them up from. Backtrack calmly and quickly and pick it up to continue the encounter. The run CAN be salvaged as long as you remain calm and make your jumps. 
 
-Once you have killed the two Taken Knights and have the two correct symbols, open the door and deposit the relics. This will end the encounter. 
+Once you have killed the two Taken Knights and have the two correct symbols, open the door and deposit the relics. This will end the encounter and spawn a chest. 
     
 
-After the third encounter and on the way to the final boss there's a small jumping puzzle. Figure it out, we have faith in you Guardian. Small hint, kill the Glyphkeepers both left and right sides to progress and move as a team, especially at the final door.
+After the third encounter and on the way to the final boss there's a small jumping puzzle. Figure it out, we have faith in you Guardian! Small hint, kill the Glyphkeepers both left and right sides to progress and move as a team, especially at the final door.
 
 #### Graphics
 
-See this diagram for path of each of the artefacts:
+See this diagram for path of each of the artifacts:
 
 <img src="https://raw.githubusercontent.com/cptylor/destiny-notes/main/vow-of-the-disciples-resources/3rd_encounter_paths.jpg" width=450>
 
@@ -292,38 +286,73 @@ See this diagram for path of each of the artefacts:
 ## Fourth Encounter -- Rhulk -- Final Boss:
 
 ### Loadout
-Big deeps. Bring high DPS weapons. Bring longer range add clear like AR's. High DPS supers good. Thundercrash and Tether very good. Divinity is good as well. Make sure to avoid using weapons with Ricochet Rounds for the Boss arena area. Best is to pick what the team is going to use, either RL's or different. If RL's at least one player should be running Gjallarhorn so as to buff the others. If you do not have a Gjallarhorn the team DPS falls off considerably for RL's. Sleeper is a very viable option this season as well. Aeon Swift gauntlets are a very viable option if you find yourself short on heavy ammo. You can Finish the Abomination before you dunk the Emanating Darkness debuff into the pillar easily.
+* Big deeps. Bring high DPS weapons. Bring longer range add clear like AR's. 
+* High DPS supers good. Thundercrash and Tether are very good. 
+* Divinity is good as well.
+
+Best is to pick what the team is going to use, either RL's or different. If RL's at least one player should be running Gjallarhorn so as to buff the others. If you do not have a Gjallarhorn the team DPS falls off considerably for RL's. Sleeper is a very viable option this season as well. 
+
+Aeon Swift gauntlets are a very viable option if you find yourself short on heavy ammo. You can Finish the Abomination before you dunk the Emanating Darkness debuff into the pillar easily.
+ 
+**!!!IMPORTANT!!!** 
+Make sure to avoid using weapons with Ricochet Rounds for the Boss arena area. These can ricochet off the boss and hit the his staff accidentally! 
 
 ### Encounter
 There are two main teams for this first part of the encounter. One team will be add clearing and reading, the other will be juggling the buffs and dunking. Establish your two teams and have players designated on each team for the dunking and the calling to reduce chatter and confusion while running the encounter.
 After starting the encounter by a player running forward far enough, one player will shoot and destroy the shard above the boss. After shooting this central shard two Glyphkeepers will spawn, one left and one right. Those with the debuff can see the three symbols in the air on the left and the players without the debuff can see the symbols on the right. Again, find the matching symbol between the two. The pillars will have three different symbols each, you just need to find one with the same symbol as you're looking for. IE, same symbol is Kill, just find a pillar with Kill anywhere on it and call it out for dunk
 
 #### Debuff and Dunking Team
-!!IMPORTANT!!!The player who deals the final blow to a shard gets the Leeching debuff so make sure that ONLY the player that needs the buff is the one shooting it to ensure they are the one that will receive it! 
+**!!!IMPORTANT!!!**
+* The player who deals the final blow to a shard gets the Leeching debuff so make sure that ONLY the player that needs the buff is the one shooting it to ensure they are the one that will receive it! 
+* These buffs are on a timer, if it expires the player dies and the buff goes away. Split to extend the timer if you need to.
+* If the Leeching debuff is lost, either due to death or accidentally turning both into Emanating, another shard will appear above the boss's head in the center. **DO NOT LOSE THE SECOND LEECHING BUFF.** This is a wipe mechanic. 
 
-!!!IMPORTANT!!! These buffs are on a timer, if it expires the player dies and the buff goes away. Split to extend the timer if you need to.
-
-After receiving the first buff, this player will stand on the black plate to split the debuff. While the player with the buff is standing on the plate two more shards will show, left and right. The two other fireteam members on the Debuff and Dunk Team will shoot the two shards and gain the Leeching debuff while the original loses it. One of these players will jump into the laser beam attack to turn the debuff into Emanating Force. This player will run forward and dunk the debuff into the pillar called out by the add clear team. This player then calls out for the split for the other player that still has the Leeching buff to keep 
+* After receiving the first buff, this player will stand on the black plate to split the debuff. 
+* While the player with the buff is standing on the black plate two more shards will show, on the left and the right. 
+* The two other fireteam members on the Debuff and Dunk Team will shoot the two shards and gain the Leeching debuff while the original loses it. 
+* One of these players (the one chosen to be the Dunker) will jump into the laser beam attack to turn the debuff into Emanating Force. 
+* The Dunker will then run forward and dunk the debuff into the pillar called out by the add clear team. 
+* When the Dunker has deposited into the correct pillar, they will call out for the next split.
+     * The player that still has the leeching buff will stand on the black plate to split the buff. Exactly like the first time, the other two shooting the shard will gain the buff and the original standing on the plate will lose it. This means you have one Dunker with the buff and one other player on the Debuff and Dunking team that has the buff at all times.
 
 <img src="https://raw.githubusercontent.com/cptylor/destiny-notes/main/vow-of-the-disciples-resources/destiny-2-vow-of-the-disciple-rhulk-leeching-force-cycle.png" width=450>
-
-If the Leeching debuff is lost, either due to death or accidentally turning both into Emanating, another shard will appear above the boss's head in the center. DO NOT LOSE SECOND LEECHING, this is a wipe mechanic. 
+ 
  
 
 #### Add Clear and Call Out Team
-This team will designate one player to call out which pillar to dunk into. Be clear and concise with your call out, use RIGHT or LEFT instead of R or L unless the team allows for the shortening. If the call is incorrect or unclear and the Dunker puts it into the wrong pillar, he dies. You can burn through rezzes extremely fast in general in this fight, so take a moment and be clear on your call outs. The rest is just add clear and staying alive. We found it best to cross-shoot the adds for better angles, but do your best to keep the Dunker alive and the adds dead. That's really all there is to it!
+This team will designate one player to call out which pillar to dunk into. 
+* Be clear and concise with your call outs, use RIGHT or LEFT instead of R or L unless the team allows for the shortening. 
+     * If the call is incorrect or unclear and the Dunker puts it into the wrong pillar, he dies. 
+     * You can burn through rezzes extremely fast in general in this fight, so take a moment and be clear on your call outs. 
+The rest is just add clear and staying alive. 
+* We found it best to cross-shoot the adds for better angles, but do your best to keep the Dunker alive and the adds dead. That's really all there is to it!
 
 
 #### Boss DPS
-Once you dunk enough correct pillars (6) you move to boss DPS at the top of the long staircase in a square room. THIS BOSS CHARGES YOU. THEN KICKS YOU. REPEATEDLY. Avoid this at all costs! Blink, hunter dodge, or just getting out of the way is KEY! Remember, move to the SIDE to best avoid these attacks. A gold wave will extend out from him then the boss will charge along that path, making it easier to track him.
+Once you dunk enough correct pillars (6) you move to boss DPS at the top of the long staircase in a square room. 
+
+**!!!IMPORTANT!!!** 
+THIS BOSS CHARGES YOU. THEN KICKS YOU. REPEATEDLY. Avoid this at all costs! Blink, hunter dodge, or just getting out of the way is KEY! Remember, move to the SIDE to best avoid these attacks. A gold wave will extend out from him then the boss will charge along that path, making it easier to track him.
 
 After the charge attack, the boss leaves behind his relic. One designated player will shoot this relic to gain the Leeching buff. We found it to be easiest to have the player dunking in the first part to do this. Where the relic was broken a symbol will appear that the player with Leeching debuff cannot see. The rest of the players will call this out with the corner of the room that the Dunker will need to go to. Again, be CLEAR and CONCISE with this call out. The Dunker will die if this call out is incorrect or not heard clearly. The player with the Leeching buff jumps into one of his beam attacks to turn Leeching into Emanating buff then deposits into the correct pillar. A weak spot appears on the boss, all players except the Dunker will shoot this until it goes immune. It almost looks like the boss is cracking where his weak point is and will be lit up. Be VERY careful that only the Dunker is the one to shoot his relic. Rinse and repeat. Be careful to not shoot the relic until the last leeching buffed player deposits. Otherwise a new symbol comes and the original symbol you called out becomes null and void.
 
 <img src="https://raw.githubusercontent.com/cptylor/destiny-notes/main/vow-of-the-disciples-resources/Presentation1.png" width=550>
 
-Full DPS phase comes after enough dunks. This boss just goes HAM, shoot the shit out of him. Someone will try to apply Div as best they can as he bounces around the room kicking people and shooting Darkness/burning beams. Do your best to avoid him and do as much damage as possible. His crit points are the weak spots you shot earlier. If your team is not using Div or it's not applied and your team chose a precision weapon (linear fusion over RL's), aim for these points to maximize your damage. The phase ends when he goes immune and power poses. Run down to the starting area. If you dilly-dally the shield comes up and pushes you. If you're in the air you will get pushed further and have a high chance of being thrown off the map. 
+Full DPS phase comes after enough dunks. 
+* This boss just goes HAM, shoot the shit out of him. 
+* Someone will try to apply Div as best they can as he bounces around the room kicking people and shooting Darkness/burning beams. 
+* Do your best to avoid him and do as much damage as possible. 
+* His crit points are the weak spots you shot earlier.
+     * If your team is not using Div or it's not applied and your team chose a precision weapon (IE linear fusions or snipers), aim for these points to maximize your damage. 
+* The phase ends when he goes immune and power poses. 
+* Run down to the starting area. If you dilly-dally the shield comes up and pushes you. If you're in the air you will get pushed further and have a high chance of being thrown off the map. 
+* While you are whittling the boss down to Final Stand be mindful of the line and your ammo. You very likely will be best off calling damage prior to hitting the final stand and getting more ammo and your supers back for this.
 
-During the Final Stand mechanic you gain stacks of darkness buff quickly. Getting caught in his beam attacks you will gain stacks of darkness. Standing next to him will give stacks of darkness. Basically you need to do more damage faster than you've ever done before or you're dead and it's a wipe. While you are whittling the boss down to this phase be mindful of the line and your ammo. You very likely will be best off calling damage prior to hitting the final stand and getting more ammo and your supers back for this.
+**Final Stand**
+* During the Final Stand mechanic you gain stacks of darkness buff quickly. 
+     * Getting caught in his beam attacks you will gain stacks of darkness. 
+     * Standing next to him will give stacks of darkness. 
+* Basically you need to do more damage faster than you've ever done before or you're all dead and it's a wipe. 
 
 
 After your first successful run per week PER ACCOUNT you will have the ability to purchase ONE Resonant (red bordered) weapon for 20 spoils. You will be given the option from all the ones that you have unlocked so far. Subsequent purchases made are random rolls. Make sure to pick one up as you will need 5 to craft them. 
@@ -332,7 +361,7 @@ After your first successful run per week PER ACCOUNT you will have the ability t
 
 See below what loot each encounter may drop:
 
-<img src="https://raw.githubusercontent.com/cptylor/destiny-notes/main/vow-of-the-disciples-resources/Vow-of-the-Disciple-loot-table-infographic.jpg" width=500>
+<a href="https://www.blueberries.gg/weapons/vow-of-the-disciple-loot-table/"><img src="https://raw.githubusercontent.com/cptylor/destiny-notes/main/vow-of-the-disciples-resources/Vow-of-the-Disciple-loot-table-infographic.jpg" width=500>
 
 
 ## Locations of Secret Rooms and Their Symbols
@@ -346,12 +375,16 @@ Once you find all three, chat will say "The Disciple recognizes your offering...
 Known symbol locations -
 
 Pyramid - Right after HUGE initial dropdown in pyramid. Make a 180, darkness crystal is to the left of the door.
- Give - Right before 1st encounter. Darkness crystal on top of door.
- Darkness - DO NOT START FIRST ENCOUNTER!! Darkness shard is by Sphinx statue on left. Opens door to the left of the statue.
- Traveler - Right as you enter the "collection" area. Jump on purple ledge and shoot darkness crystal. Opens door below.
-Worship - In Caretaker final stand arena. Shard is back left and opens door 180 degrees across the path.
-Stop - In second large add room or darkness shard room during the jumping puzzle (The one with the moving white pillars.) Darkness shard back right opens door next to it!
-Light - Directly after second encounter. Start of jump puzzle in outside room with first darkness shard to move platforms (tons of scorn;before symbol wall). Door and shard to open on left.
-Guardian - Right after 3rd encounter. Up stairs on left. Crystal is floating off of ledge and room is 180 from the direction of boss arena.
-Kill - RIGHT before boss arena. Jump up multi-level platforms leading to final doors to boss. Crystal 180 degrees from direction of boss arena, in the air. Opens door on right (facing boss)."
+* Give - Right before 1st encounter. Darkness crystal on top of door.
+* Darkness - DO NOT START FIRST ENCOUNTER!! Darkness shard is by Sphinx statue on left. Opens door to the left of the statue.
+* Traveler - Right as you enter the "collection" area. Jump on purple ledge and shoot darkness crystal. Opens door below.
+* Worship - In Caretaker final stand arena. Shard is back left and opens door 180 degrees across the path.
+* Stop - In second large add room or darkness shard room during the jumping puzzle (The one with the moving white pillars.) Darkness shard back right opens door next to it!
+* Light - Directly after second encounter. Start of jump puzzle in outside room with first darkness shard to move platforms (tons of scorn;before symbol wall). Door and shard to open on left.
+* Guardian - Right after 3rd encounter. Up stairs on left. Crystal is floating off of ledge and room is 180 from the direction of boss arena.
+* Kill - RIGHT before boss arena. Jump up multi-level platforms leading to final doors to boss. Crystal 180 degrees from direction of boss arena, in the air. Opens door on right (facing boss)."
+ 
+ Video:
+ 
+ <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ayQWhcS8Zzw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
