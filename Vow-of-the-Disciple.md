@@ -226,7 +226,9 @@ Once BOTH Relics are picked up the door to the next area will open. Work your wa
 
 
 #### Third Room
-This room introduces Taken Relic, a THIRD artifact. It will spawn in the third dunk station that the VOG Relic and Resonant Shard users are not using. This one is needed to kill the taken blights that make the enemies immune. Use the grenade button to "cleanse" the blight. You must be nearly on top of the blight when cleansing! Bear in mind that while holding this relic you WILL run slower than normal.
+This room introduces Taken Relic, a THIRD artifact. It will spawn in the third dunk station that the VOG Relic and Resonant Shard users are not using. This one is needed to kill the taken blights that make the enemies immune. Use the grenade button to "cleanse" the blight. 
+ * You must be nearly on top of the blight when cleansing! 
+ * Bear in mind that while holding this relic you WILL run slower than normal.
 
 When swapping relics, remember to make sure everyone is ready because by depositing the Resonate Shard it resets the Terminal Resonance timer fully. When all THREE relics are picked up the door will open. 
 
@@ -238,15 +240,20 @@ VOG shield goes right, Resonant Shard goes left, one additional player goes with
 **!!!IMPORTANT!!!** 
 * Shielded Taken Knights MUST be killed by walnut beam, knocking them off the center platform is a WIPE since you cannot progress!
 
-In this room they always appear on the platform in the middle of the room. Resonant Shard holder needs to keep an eye on the timer to reset as late as possible to maximize time. You will need to look down to the platform and shoot from top as they always spawn in the same location.
+In this room they always appear on the platform in the middle of the room. Resonant Shard holder needs to keep an eye on the timer to reset as late as possible to maximize time. You will only get 40 seconds added to the clock but you want to get as many of those as possible. You will need to look down to the platform and shoot from top as they always spawn in the same location.
 
 Team Left (Resonant Shard +1) kills/reads left corners of rooms and Team Right (VoG+1) the right. In this room only the 6th person is add clear/roam that can go on the opposite side of Taken blight cleanser. 
 
-VoG CLEANSE has 3 cleansing locations. 
-Entry right corner (where the Glyphkeeper spawns) cleanse right team and read then jumps across to exit left corner to cleanse left team at the bottom of the stairs. Then move to between left and right exit corners to have teams cleanse there. Exit  is at the north side of the room. Beware of the screebs here, they spawn right inside the doorway as it opens. 
+VoG CLEANSE has 3 cleansing locations:
+* Entry right corner (where the Glyphkeeper spawns) cleanse right team and read 
+* Then jumps across to left side to cleanse left team at the bottom of the stairs. 
+* Then move to between left and right exit corners to have teams cleanse there. 
+ 
+The exit  is at the north side of the room. Beware of the screebs here, they spawn right inside the doorway as it opens. Best practice is to either wait for them to spawn or just jump over them to a safe distance, then kill them immediately.
 
 
-!!!IMPORTANT!!! Shielded Taken Knights MUST be killed by walnut beam, knocking them off the center platform is a WIPE since you cannot progress!
+**!!!IMPORTANT!!!** 
+* Shielded Taken Knights MUST be killed by walnut beam, knocking them off the center platform is a WIPE since you cannot progress!
 
 In this room they always appear on the platform in the middle of the room. Resonant Shard holder needs to keep an eye on the timer to reset as late as possible to maximize time. You will need to look down to the platform and shoot from top as they always spawn in the same location.
 
@@ -310,7 +317,7 @@ This team will designate one player to call out which pillar to dunk into. Be cl
 #### Boss DPS
 Once you dunk enough correct pillars (6) you move to boss DPS at the top of the long staircase in a square room. THIS BOSS CHARGES YOU. THEN KICKS YOU. REPEATEDLY. Avoid this at all costs! Blink, hunter dodge, or just getting out of the way is KEY! Remember, move to the SIDE to best avoid these attacks. A gold wave will extend out from him then the boss will charge along that path, making it easier to track him.
 
-After the charge attack, the boss leaves behind his relic. One designated player will shoot this relic to gain the Leeching buff. We found it to be easiest to have the player dunking in the first part to do this. Where the relic was broken a symbol will appear that the player with Leeching debuff cannot see. The rest of the players will call this out with the corner of the room that the Dunker will need to go to. Again, be CLEAR and CONCISE with this call out. The Dunker will die if this call out is incorrect or not heard clearly. The player with the Leeching buff jumps into one of his beam attacks to turn Leeching into Emanating buff then deposits into the correct pillar. A weak spot appears on the boss, all players except the Dunker will shoot this until it goes immune. It almost looks like the boss is cracking where his weak point is and will be lit up. Be VERY careful that only the Dunker is the one to shoot his relic. Rinse and repeat. Be careful to not shoot the relic until the last leeching buffed player deposits. Otherwise a new symbol comes and the original symbol you called out becomes void.
+After the charge attack, the boss leaves behind his relic. One designated player will shoot this relic to gain the Leeching buff. We found it to be easiest to have the player dunking in the first part to do this. Where the relic was broken a symbol will appear that the player with Leeching debuff cannot see. The rest of the players will call this out with the corner of the room that the Dunker will need to go to. Again, be CLEAR and CONCISE with this call out. The Dunker will die if this call out is incorrect or not heard clearly. The player with the Leeching buff jumps into one of his beam attacks to turn Leeching into Emanating buff then deposits into the correct pillar. A weak spot appears on the boss, all players except the Dunker will shoot this until it goes immune. It almost looks like the boss is cracking where his weak point is and will be lit up. Be VERY careful that only the Dunker is the one to shoot his relic. Rinse and repeat. Be careful to not shoot the relic until the last leeching buffed player deposits. Otherwise a new symbol comes and the original symbol you called out becomes null and void.
 
 <img src="https://raw.githubusercontent.com/cptylor/destiny-notes/main/vow-of-the-disciples-resources/Presentation1.png" width=550>
 
