@@ -306,11 +306,6 @@ After starting the encounter by a player running forward far enough, one player 
 
 #### Debuff and Dunking Team
 
-:warning: **!!!IMPORTANT!!!** :warning:
-* The player who deals the final blow to a shard gets the Leeching debuff so make sure that ONLY the player that needs the buff is the one shooting it to ensure they are the one that will receive it! 
-* These buffs are on a timer, if it expires the player dies and the buff goes away. Split to extend the timer if you need to.
-* If the Leeching debuff is lost, either due to death or accidentally turning both into Emanating, another shard will appear above the boss's head in the center. **DO NOT LOSE THE SECOND LEECHING BUFF.** This is a wipe mechanic. 
-
 * After receiving the first buff, this player will stand on the black plate to split the debuff. 
 * While the player with the buff is standing on the black plate two more shards will show, on the left and the right. 
 * The two other fireteam members on the Debuff and Dunk Team will shoot the two shards and gain the Leeching debuff while the original loses it. 
@@ -318,6 +313,11 @@ After starting the encounter by a player running forward far enough, one player 
 * The Dunker will then run forward and dunk the debuff into the pillar called out by the add clear team. 
 * When the Dunker has deposited into the correct pillar, they will call out for the next split.
      * The player that still has the leeching buff will stand on the black plate to split the buff. Exactly like the first time, the other two shooting the shard will gain the buff and the original standing on the plate will lose it. This means you have one Dunker with the buff and one other player on the Debuff and Dunking team that has the buff at all times.
+
+:warning: **!!!IMPORTANT!!!** :warning:
+* The player who deals the final blow to a shard gets the Leeching debuff so make sure that ONLY the player that needs the buff is the one shooting it to ensure they are the one that will receive it! 
+* * These buffs are on a timer, if it expires the player dies and the buff goes away. Split to extend the timer if you need to.
+* If the Leeching debuff is lost, either due to death or accidentally turning both into Emanating, another shard will appear above the boss's head in the center. **DO NOT LOSE THE SECOND LEECHING BUFF.** This is a wipe mechanic. 
 
 <img src="https://raw.githubusercontent.com/cptylor/destiny-notes/main/vow-of-the-disciples-resources/destiny-2-vow-of-the-disciple-rhulk-leeching-force-cycle.png" width=450>
  
