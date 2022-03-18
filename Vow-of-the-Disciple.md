@@ -316,7 +316,7 @@ After starting the encounter by a player running forward far enough, one player 
 
 :warning: **!!!IMPORTANT!!!** :warning:
 * The player who deals the final blow to a shard gets the Leeching debuff so make sure that ONLY the player that needs the buff is the one shooting it to ensure they are the one that will receive it! 
-* * These buffs are on a timer, if it expires the player dies and the buff goes away. Split to extend the timer if you need to.
+* These buffs are on a timer, if it expires the player dies and the buff goes away. Split to extend the timer if you need to.
 * If the Leeching debuff is lost, either due to death or accidentally turning both into Emanating, another shard will appear above the boss's head in the center. **DO NOT LOSE THE SECOND LEECHING BUFF.** This is a wipe mechanic. 
 
 <img src="https://raw.githubusercontent.com/cptylor/destiny-notes/main/vow-of-the-disciples-resources/destiny-2-vow-of-the-disciple-rhulk-leeching-force-cycle.png" width=450>
