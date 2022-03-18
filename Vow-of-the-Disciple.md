@@ -4,11 +4,11 @@ _Brought to you by bigred76, cpTylor, and Tr1d3nT_
 
 This walkthrough is meant as general advice, feel free to reach out for edits. Substitute supers/roles/weapons as you feel works best for your specific fireteam. There really is not a one size fits all for this, just use what works best for you if this isn't it. Make sure for boss DPS phases your fireteam agrees on one strategy. Having multiple strategies reduces DPS output therefore your chances for success. Be open to trying things, this is your sandbox. Get a little dirty and have some fun!
 
+If you have suggestions, comments, or critiques, leave us a comment in [Issues](https://github.com/cptylor/destiny-notes/issues).
+
 Many thanks to DrThunderbomb, KarlitoSupremo, and especially ChubbyRain for putting up with our shenanigans while putting this together! 
 
 _Major props to the ones that have created images for the Destiny 2 community._ Authors are anotated on the images themselves, and all credits should go to them! When no author is shown, we created the image.
-
-If you have suggestions, comments, or critiques, leave us a comment in [Issues](https://github.com/cptylor/destiny-notes/issues).
 
 An easy tool to use for the symbols found throughout the raid is here: https://disciple-glyphs.kapowaz.net/acquisition
 
