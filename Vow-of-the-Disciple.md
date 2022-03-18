@@ -6,7 +6,7 @@ This walkthrough is meant as general advice, feel free to reach out for edits. S
 
 If you have suggestions, comments, or critiques, leave us a comment in [Issues](https://github.com/cptylor/destiny-notes/issues).
 
-Many thanks to DrThunderbomb, KarlitoSupremo, and especially ChubbyRain for putting up with our shenanigans while putting this together! 
+Many thanks to DrThunderbomb, KarlitoSupremo, and especially ChubbyRain for putting up with our shenanigans while putting this together! :family:
 
 _Major props to the ones that have created images for the Destiny 2 community._ Authors are anotated on the images themselves, and all credits should go to them! When no author is shown, we created the image.
 
