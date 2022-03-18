@@ -35,7 +35,7 @@ Encounter:
  
 **First secret chest is in this section.** You will need to shoot three Nuts on the way. They show up on your HUD with an icon like a planetary material when you're close.The first Nut is in a small cove to the left of the boat’s second stop. It is in the corner. The second Nut is at the bus's third stop. Using the bus's stopped position as a guide, head in a 10 o’clock direction from the front of the surfboard. This Nut will be just ahead to your left. The third Nut is found under the bridge at the bus's fourth stop. You will find it hidden in the right corner and you can shoot it through the rails or from the other side one arch is missing bars where you can enter. The chest is located inside the building ahead of this on the right. Make sure to clear the adds and NOT pick up all the Wisdom buffs so the bus stays with you.
 
-**!!!IMPORTANT!!!** 
+:warning: **!!!IMPORTANT!!!** :warning:
 * BEFORE DROPPING DOWN INSIDE THE PYRAMID! Check the totem in the middle of the big room. This has three symbols inside the three "secret" rooms you need to activate the wall plates in. The plate guide is at the end of this guide. You only need to activate the three shown, but if you forget what they are you CAN do all of them and still qualify for the extra chest at the final boss. To our understanding these must all be done on the same run, does not count off of a CP.
 * Dropping down once you're inside the pyramid is rough. Bring a sword. Hunters can dive from the top. Otherwise, you WILL break your legs (and lose a potential flawless run). Titans can use heavy on Crown, just jump out and smash away. 
 
@@ -242,7 +242,7 @@ If a player falls with a relic, the relic will respawn in the room you picked th
 * Blight clearer goes ping pong, follow the map. If the blight spawns on the left, the next will be on the right. Moving and clearing the blights too quickly results in the Taken Blights respawning, so stick with the group as much as possible and don't get too far ahead. Be aware and make sure that if they respawn you get there as fast as possible to clear it again.
 
 
-**!!!IMPORTANT!!!** 
+:warning: **!!!IMPORTANT!!!** :warning:
 * Shielded Taken Knights MUST be killed by walnut beam, knocking them off the center platform is a WIPE since you cannot progress!
 
 In this room they always appear on the platform in the middle of the room. Resonant Shard holder needs to keep an eye on the timer to reset as late as possible to maximize time. You will only have 40 seconds added to the clock but you want to get as many of those added back as you can. If you can wait a couple seconds to maximize this please do so. You will need to look down to the platform and shoot from top as they always spawn in the same location.
@@ -297,7 +297,7 @@ Best is to pick what the team is going to use, either RL's or different. If RL's
 
 Aeon Swift gauntlets are a very viable option if you find yourself short on heavy ammo. You can Finish the Abomination before you dunk the Emanating Darkness debuff into the pillar easily.
  
-**!!!IMPORTANT!!!** 
+:warning: **!!!IMPORTANT!!!** :warning:
 Make sure to avoid using weapons with Ricochet Rounds for the Boss arena area. These can ricochet off the boss and hit the his staff accidentally! 
 
 ### Encounter
@@ -305,7 +305,8 @@ There are two main teams for this first part of the encounter. One team will be 
 After starting the encounter by a player running forward far enough, one player will shoot and destroy the shard above the boss. After shooting this central shard two Glyphkeepers will spawn, one left and one right. Those with the debuff can see the three symbols in the air on the left and the players without the debuff can see the symbols on the right. Again, find the matching symbol between the two. The pillars will have three different symbols each, you just need to find one with the same symbol as you're looking for. IE, same symbol is Kill, just find a pillar with Kill anywhere on it and call it out for dunk
 
 #### Debuff and Dunking Team
-**!!!IMPORTANT!!!**
+
+:warning: **!!!IMPORTANT!!!** :warning:
 * The player who deals the final blow to a shard gets the Leeching debuff so make sure that ONLY the player that needs the buff is the one shooting it to ensure they are the one that will receive it! 
 * These buffs are on a timer, if it expires the player dies and the buff goes away. Split to extend the timer if you need to.
 * If the Leeching debuff is lost, either due to death or accidentally turning both into Emanating, another shard will appear above the boss's head in the center. **DO NOT LOSE THE SECOND LEECHING BUFF.** This is a wipe mechanic. 
@@ -334,7 +335,7 @@ The rest is just add clear and staying alive.
 #### Boss DPS
 Once you dunk enough correct pillars (6) you move to boss DPS at the top of the long staircase in a square room. 
 
-**!!!IMPORTANT!!!** 
+:warning: **!!!IMPORTANT!!!**  :warning:
 THIS BOSS CHARGES YOU. THEN KICKS YOU. REPEATEDLY. Avoid this at all costs! Blink, hunter dodge, or just getting out of the way is KEY! Remember, move to the SIDE to best avoid these attacks. A gold wave will extend out from him then the boss will charge along that path, making it easier to track him.
 
 After the charge attack, the boss leaves behind his relic. One designated player will shoot this relic to gain the Leeching buff. We found it to be easiest to have the player dunking in the first part to do this. Where the relic was broken a symbol will appear that the player with Leeching debuff cannot see. The rest of the players will call this out with the corner of the room that the Dunker will need to go to. Again, be CLEAR and CONCISE with this call out. The Dunker will die if this call out is incorrect or not heard clearly. The player with the Leeching buff jumps into one of his beam attacks to turn Leeching into Emanating buff then deposits into the correct pillar. A weak spot appears on the boss, all players except the Dunker will shoot this until it goes immune. It almost looks like the boss is cracking where his weak point is and will be lit up. Be VERY careful that only the Dunker is the one to shoot his relic. Rinse and repeat. Be careful to not shoot the relic until the last leeching buffed player deposits. Otherwise a new symbol comes and the original symbol you called out becomes null and void.
