@@ -140,7 +140,7 @@ Rinse and repeat three times.
      * Banner Shield will then call out to go on to the next plate. 
 
 
-**Remember:** 
+:grey_exclamation: **Remember:**  :grey_exclamation:
 * Banner Shield calls when to step on and when to step off to the next plate. This designated player calling out minimizes getting on the plate and shortening your short DPS window, maximizing the chances for success!
 
 
@@ -212,7 +212,7 @@ Once you enter the correct symbol at the door you will find a small room with tw
      * On the other side is another terminal that someone else will needto be at to retrieve the next Relic, the VOG shield. 
        * This shield Relic will clear your Darkness debuff that starts once you enter the next room. 
 
-**Remember:** 
+:grey_exclamation: **Remember:** :grey_exclamation:
 * As soon as the Resonate Nut is deposited the timer resets fully to 1 minute and 14 seconds. We usually deposit the Resonate Shard on the right and the VOG shield on the left for simplicity.
 
 
