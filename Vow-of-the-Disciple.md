@@ -365,7 +365,7 @@ After your first successful run per week PER ACCOUNT you will have the ability t
 
 See below what loot each encounter may drop:
 
-<a href="https://www.blueberries.gg/weapons/vow-of-the-disciple-loot-table/"><img src="https://raw.githubusercontent.com/cptylor/destiny-notes/main/vow-of-the-disciples-resources/Vow-of-the-Disciple-loot-table-infographic.jpg" width=500>
+<a href="https://www.blueberries.gg/weapons/vow-of-the-disciple-loot-table/"><img src="https://raw.githubusercontent.com/bigred76002/destiny-notes/main/vow-of-the-disciples-resources/Vow%20Loot%20Table.png" width=800>
 
 
 ## Locations of Secret Rooms and Their Symbols
