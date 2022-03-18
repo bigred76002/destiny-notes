@@ -235,8 +235,8 @@ This room introduces Taken Relic, a THIRD artifact. It will spawn in the third d
 
 When swapping relics, remember to make sure everyone is ready because by depositing the Resonate Shard it resets the Terminal Resonance timer fully. When all THREE relics are picked up the door will open. 
 
-**!!!REMEMBER!!!** 
-If a player falls with a relic, the relic will respawn in the room you picked them up from. Backtrack calmly and quickly and pick it up to continue the encounter. The run CAN be salvaged as long as you remain calm and make your jumps.
+🔶 **REMEMBER:** 
+If a player falls with a relic, the relic will respawn in the room in which you pick relics up. Backtrack calmly and quickly and pick the fallen relic up to continue the encounter. The run CAN be salvaged as long as you remain calm and make your jumps.
 
 * VOG shield goes right, Resonant Shard goes left. One additional player will go with each to clear adds and read symbols. 
 * Blight clearer goes ping pong, follow the map. If the blight spawns on the left, the next will be on the right. Moving and clearing the blights too quickly results in the Taken Blights respawning, so stick with the group as much as possible and don't get too far ahead. Be aware and make sure that if they respawn you get there as fast as possible to clear it again.
