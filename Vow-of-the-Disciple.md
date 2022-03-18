@@ -312,7 +312,7 @@ After starting the encounter by a player running forward far enough, one player 
 * One of these players (the one chosen to be the Dunker) will jump into the laser beam attack to turn the debuff into Emanating Force. 
 * The Dunker will then run forward and dunk the debuff into the pillar called out by the add clear team. 
 * When the Dunker has deposited into the correct pillar, they will call out for the next split.
-     * The player that still has the leeching buff will stand on the black plate to split the buff. Exactly like the first time, the other two shooting the shard will gain the buff and the original standing on the plate will lose it. This means you have one Dunker with the buff and one other player on the Debuff and Dunking team that has the buff at all times.
+* The player that still has the leeching buff will stand on the black plate to split the buff. Exactly like the first time, the other two shooting the shard will gain the buff and the original standing on the plate will lose it. This means you have one Dunker with the buff and one other player on the Debuff and Dunking team that has the buff at all times.
 
 :warning: **!!!IMPORTANT!!!** :warning:
 * The player who deals the final blow to a shard gets the Leeching debuff so make sure that ONLY the player that needs the buff is the one shooting it to ensure they are the one that will receive it! 
