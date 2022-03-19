@@ -13,14 +13,15 @@ _Major props to the ones that have created images for the Destiny 2 community._ 
 An easy tool to use for the symbols found throughout the raid is here: https://disciple-glyphs.kapowaz.net/acquisition
 
 _**Table of Contents**_
-1. [Entrance](https://github.com/cptylor/destiny-notes/blob/main/Vow-of-the-Disciple.md#entrance-encounter)
-2. [First Encounter - Acquisition](https://github.com/cptylor/destiny-notes/blob/main/Vow-of-the-Disciple.md#first-encounter-acquisition)
-3. [Second Encounter - Caretaker](https://github.com/cptylor/destiny-notes/blob/main/Vow-of-the-Disciple.md#entrance-encounter)
-4. [Jumping ~~fun~~Puzzle](https://github.com/cptylor/destiny-notes/blob/main/Vow-of-the-Disciple.md#jumping-puzzle)
-5. [Thid Encounter - Artifacts](https://github.com/cptylor/destiny-notes/blob/main/Vow-of-the-Disciple.md#third-encounter----artifacts)
-6. [Fourth Encounter - Rhulk](https://github.com/cptylor/destiny-notes/blob/main/Vow-of-the-Disciple.md#fourth-encounter----rhulk----final-boss)
-7. [Raid Loot Table](https://github.com/cptylor/destiny-notes/blob/main/Vow-of-the-Disciple.md#raid-loot-table)
-8. [Location of Secret Rooms and Their Symbnols](https://github.com/cptylor/destiny-notes/blob/main/Vow-of-the-Disciple.md#locations-of-secret-rooms-and-their-symbols)
+1. [Entrance](https://github.com/bigred76002/destiny-notes/blob/main/Vow-of-the-Disciple.md#entrance-encounter)
+2. [First Encounter - Acquisition](https://github.com/bigred76002/destiny-notes/blob/main/Vow-of-the-Disciple.md#first-encounter-acquisition)
+3. [Second Encounter - Caretaker](https://github.com/bigred76002/destiny-notes/blob/main/Vow-of-the-Disciple.md#entrance-encounter)
+4. [Jumping ~~fun~~Puzzle](https://github.com/bigred76002/destiny-notes/blob/main/Vow-of-the-Disciple.md#jumping-puzzle)
+5. [Thid Encounter - Artifacts](https://github.com/bigred76002/destiny-notes/blob/main/Vow-of-the-Disciple.md#third-encounter----artifacts)
+6. [Fourth Encounter - Rhulk](https://github.com/bigred76002/destiny-notes/blob/main/Vow-of-the-Disciple.md#fourth-encounter----rhulk----final-boss)
+7. [Raid Loot Table](https://github.com/bigred76002/destiny-notes/blob/main/Vow-of-the-Disciple.md#raid-loot-table)
+8. [Location of Secret Rooms and Their Symbols](https://github.com/bigred76002/destiny-notes/blob/main/Vow-of-the-Disciple.md#locations-of-secret-rooms-and-their-symbols)
+9. [Ghost Shell](https://github.com/bigred76002/destiny-notes/blob/main/Vow-of-the-Disciple.md#ghost-shell)
 
 ## Entrance Encounter
 
@@ -387,3 +388,41 @@ Pyramid - Right after HUGE initial dropdown in pyramid. Make a 180, darkness cry
 * Light - Directly after second encounter. Start of jump puzzle in outside room with first darkness shard to move platforms (tons of scorn;before symbol wall). Door and shard to open on left.
 * Guardian - Right after 3rd encounter. Up stairs on left. Crystal is floating off of ledge and room is 180 from the direction of boss arena.
 * Kill - RIGHT before boss arena. Jump up multi-level platforms leading to final doors to boss. Crystal 180 degrees from direction of boss arena, in the air. Opens door on right (facing boss)."
+
+ 
+ ## Ghost Shell
+ 
+This is actually one of the easier ones to do! You really need two people to do this for the method I know of but I am sure there are single player methods available that I do not know of. You will have two parts to this. 
+ 
+ * Preservation Mission
+ * Raid before first Encounter
+ 
+ #### Preservation Mission
+ For this one it's super simple: just run the mission as intended. 
+ * After you hit the pylon to end the mission and the dialogue starts, backtrack to the "balcony" inside the first encounter area near the right Obelisk/Totem. There will be another pylon and you simply have to wait for the dialogue to finish to start the next. 
+ * Just go to the rooms you entered to progress the Preservation Mission in reverse order, there will be one in each. 
+      * Again, you must wait for the dialogue to finish before doing the next activation and dialogue. 
+ * The last one is going to be where the flag would be for the raid, on top of the building you first drop in on. 
+ 
+ There you go! That's the first five!
+ 
+#### Raid Section 
+You will want to get a first encounter CP for this! Right before the first encounter you will run into a room that has all of the raid's symbols. You will see this on the Preservation mission as well, but only able to do it once per run. It's far easier to backtrack from a first encounter CP. 
+
+* On the right side of the room there are windows with bars in them, one of them will not. 
+     * Jump through this one. 
+ * In this next room you will find four sets of three symbols and an action to Reset the room. 
+      * All you need are the middle two sets!
+      * It will start at the top with "Guardian" then "Enter/Commune" and then the symbol you need to interact with.
+      * These symbols follow the standard designations as seen in the second encounter guide and as below.
+ * To "Enter" a symbol, use a melee attack on the corresponding symbol in the room.
+ * To "Commune" with a symbol simply interact with it.
+ * These must be done at the same time and the "Commune" interaction takes approximately two seconds. We did a three second countdown and the person "Communing" simply started the interaction on "two."
+ 
+ Just that simple! Start the first encounter, wipe, and repeat this until you have the remaining five. 
+ 
+ 
+ #### Symbol Room Map
+ 
+ See below for the map of the symbol room with names, courtesy of frenulum!
+<img src="https://raw.githubusercontent.com/bigred76002/destiny-notes/main/vow-of-the-disciples-resources/1st-symbols-room-ghost.jpg" width=800>
