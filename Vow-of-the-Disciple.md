@@ -425,4 +425,5 @@ You will want to get a first encounter CP for this! Right before the first encou
  #### Symbol Room Map
  
  See below for the map of the symbol room with names, courtesy of frenulum!
-<img src="https://raw.githubusercontent.com/bigred76002/destiny-notes/main/vow-of-the-disciples-resources/1st-symbols-room-ghost.jpg" width=800>
+ 
+<img src="https://raw.githubusercontent.com/bigred76002/destiny-notes/main/vow-of-the-disciples-resources/1st-symbols-room-ghost.jpg" width=600>
