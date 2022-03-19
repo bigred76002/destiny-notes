@@ -299,7 +299,8 @@ Best is to pick what the team is going to use, either RL's or different. If RL's
 Aeon Swift gauntlets are a very viable option if you find yourself short on heavy ammo. You can Finish the Abomination before you dunk the Emanating Darkness debuff into the pillar easily.
  
 :warning: **!!!IMPORTANT!!!** :warning:
-Make sure to avoid using weapons with Ricochet Rounds for the Boss arena area. These can ricochet off the boss and hit the his staff accidentally! 
+
+Make sure to avoid using weapons with Ricochet Rounds for the Boss arena area. These can ricochet off the boss and hit his staff accidentally! 
 
 ### Encounter
 There are two main teams for this first part of the encounter. One team will be add clearing and reading, the other will be juggling the buffs and dunking. Establish your two teams and have players designated on each team for the dunking and the calling to reduce chatter and confusion while running the encounter.
