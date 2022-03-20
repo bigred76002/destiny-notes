@@ -380,7 +380,7 @@ Once you find all three, chat will say "The Disciple recognizes your offering...
 
 Known symbol locations -
 
-Pyramid - Right after HUGE initial dropdown in pyramid. Make a 180, darkness crystal is to the left of the door.
+* Pyramid - Right after HUGE initial dropdown in pyramid. Make a 180, darkness crystal is to the left of the door.
 * Give - Right before 1st encounter. Darkness crystal on top of door.
 * Darkness - DO NOT START FIRST ENCOUNTER!! Darkness shard is by Sphinx statue on left. Opens door to the left of the statue.
 * Traveler - Right as you enter the "collection" area. Jump on purple ledge and shoot darkness crystal. Opens door below.
