@@ -374,7 +374,7 @@ See below what loot each encounter may drop:
     
 Credit goes to Skarrow9 on Reddit:
     
-"Video guide - https://www.youtube.com/watch?v=ayQWhcS8Zzw
+"Video guide - https://www.youtube.com/watch?v=2NfQsFRX1wM&ab_channel=Skarrow9
 This one is really fricken cool. At the beginning of the raid when you first enter the pyramid a pillar will spawn with 3 of the raid's symbols on it. You need to find the 3 secret rooms with those specific symbols in the raid!
 Once you find all three, chat will say "The Disciple recognizes your offering...". Once you finish the raid an extra chest spawns that *seems* to drop a guaranteed red weapon! I don't know if this is per character, or account, or week, or whatever.
 
