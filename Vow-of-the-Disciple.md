@@ -158,11 +158,13 @@ Rinse and repeat three times.
 * A good option is to swap to Outbreak Perfected with catalyst or whatever you have that's primary ammo for weapons you have no ammunition for. You will most likely not have any special or heavy ammo left by this point, just unload absolutely everything you have and hit him hard!
 
 
-### Symbols Graphic
+### Symbols Graphic and Encounter Diagram
 
 For a quick list of symbols and their Bungie-given names:
 
 <img src="https://raw.githubusercontent.com/cptylor/destiny-notes/main/vow-of-the-disciples-resources/VotD.png" width="700">
+
+<img src="https://raw.githubusercontent.com/bigred76002/destiny-notes/main/vow-of-the-disciples-resources/2nd-Encounter-Diag.jpg" width="700">
 
 
 ## Jumping puzzle
