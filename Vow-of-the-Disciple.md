@@ -65,8 +65,12 @@ Unstoppable, add clear, burst damage heavy like Gally or sword. No preference to
 
 Rinse and repeat three times. 
 
+### Challenge
+This challenge is fairly straightforward: kill the three Unstoppable champions within 5 seconds of each other. We recommend leaving the first two alone and stunning occassionally as needed. When the final Unstoppable Champion spawns, leave all of the Champions unstunned and count down to stun all at the same time and then immediately kill them. If you count down to a kill rather than the initial stun you can quickly run into the problem of one un-stunning while you're trying to kill it. To complete the challenge you must do this on each of the three rounds.
 
+### Encounter Diagram
 <img src="https://github.com/cptylor/destiny-notes/raw/main/vow-of-the-disciples-resources/1st_encounter_summary.jpg" width="700">
+
 
 ## Second Encounter -- Caretaker:
 
@@ -157,6 +161,8 @@ Rinse and repeat three times.
 
 * A good option is to swap to Outbreak Perfected with catalyst or whatever you have that's primary ammo for weapons you have no ammunition for. You will most likely not have any special or heavy ammo left by this point, just unload absolutely everything you have and hit him hard!
 
+### Challenge
+The Challenge for this encounter is fairly straightforward: each Runner can only dunk ONE buff from inside at a time. Run in, grab a buff, run out and shoot it when the text shows that you can. You can do this multiple ways, the one that we found that worked for us was to run in with two runners, they get their single buff and run out, shoot the obelisk, and swap with the add clears. Rinse and repeat until all of the buffs are deposited. There are other ways to do this, of course, and we're open ears to any and all strategies to do this more effectively.
 
 ### Symbols Graphic and Encounter Diagram
 
