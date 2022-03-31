@@ -65,8 +65,11 @@ Unstoppable, add clear, burst damage heavy like Gally or sword. No preference to
 
 Rinse and repeat three times. 
 
-### Challenge
-This challenge is fairly straightforward: kill the three Unstoppable champions within 5 seconds of each other. We recommend leaving the first two alone and stunning occassionally as needed. When the final Unstoppable Champion spawns, leave all of the Champions unstunned and count down to stun all at the same time and then immediately kill them. If you count down to a kill rather than the initial stun you can quickly run into the problem of one un-stunning while you're trying to kill it. To complete the challenge you must do this on each of the three rounds.
+### "Swift Destruction" Challenge
+This weekly challenge is fairly straightforward: kill the three Unstoppable champions within 5 seconds of each other. We recommend leaving the first two alone and stunning occassionally as needed. When the final Unstoppable Champion spawns, leave all of the Champions unstunned and count down to stun all at the same time and then immediately kill them. If you count down to a kill rather than the initial stun you can quickly run into the problem of one un-stunning while you're trying to kill it. To complete the challenge you must do this on each of the three rounds.
+
+### "On My Go" Triumph
+For this triumph you can do it any time. For this one you kill the Abated Adherents after they start to damage one of the Obelisks. That's it, just that easy.
 
 ### Encounter Diagram
 <img src="https://github.com/cptylor/destiny-notes/raw/main/vow-of-the-disciples-resources/1st_encounter_summary.jpg" width="700">
@@ -161,8 +164,11 @@ This challenge is fairly straightforward: kill the three Unstoppable champions w
 
 * A good option is to swap to Outbreak Perfected with catalyst or whatever you have that's primary ammo for weapons you have no ammunition for. You will most likely not have any special or heavy ammo left by this point, just unload absolutely everything you have and hit him hard!
 
-### Challenge
+### "Base Information" Challenge
 The Challenge for this encounter is fairly straightforward: each Runner can only dunk ONE buff from inside at a time. The two Runners will run in, each grab a single buff, run out and shoot it when the text shows that they can. You can do this multiple ways, the one that we found that worked for us was to run in with two runners, they get their single buff and run out, shoot the obelisk, and swap with the add clears. Rinse and repeat until all of the buffs are deposited. There are other ways to do this, of course, and we're open ears to any and all strategies to do this more effectively.
+
+### "Handle with Care" Triumph
+To do this anytime triumph, you have to have every member of the fireteam stun the Caretaker at least once on each floor.
 
 ### Symbols Graphic and Encounter Diagram
 
@@ -283,7 +289,12 @@ If a player falls with a relic, the relic will respawn in the room you picked th
 Once you have killed the two Taken Knights and have the two correct symbols, open the door and deposit the relics. This will end the encounter and spawn a chest. 
     
 
-After the third encounter and on the way to the final boss there's a small jumping puzzle. Figure it out, we have faith in you Guardian! Small hint, kill the Glyphkeepers both left and right sides to progress and move as a team, especially at the final door.
+### "Defenses Down" Challenge
+More info coming....
+
+### "Glyph to Glyph" Triumph
+For this triumph you must kill each set of Glyphkeepers within 5 seconds of each other.
+
 
 #### Graphics
 
@@ -370,6 +381,12 @@ Full DPS phase comes after enough dunks.
 
 
 After your first successful run per week PER ACCOUNT you will have the ability to purchase ONE Resonant (red bordered) weapon for 20 spoils. You will be given the option from all the ones that you have unlocked so far. Subsequent purchases made are random rolls. Make sure to pick one up as you will need 5 to craft them. 
+
+### "Looping Catalyst" Challenge
+More info coming...
+
+### "Symmetrical Energy" Triumph
+Any energy deposit in Dominion must be accompanied by another deposit within 5 seconds.
 
 ## Raid Loot Table
 
