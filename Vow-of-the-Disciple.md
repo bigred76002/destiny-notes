@@ -162,7 +162,7 @@ This challenge is fairly straightforward: kill the three Unstoppable champions w
 * A good option is to swap to Outbreak Perfected with catalyst or whatever you have that's primary ammo for weapons you have no ammunition for. You will most likely not have any special or heavy ammo left by this point, just unload absolutely everything you have and hit him hard!
 
 ### Challenge
-The Challenge for this encounter is fairly straightforward: each Runner can only dunk ONE buff from inside at a time. Run in, grab a buff, run out and shoot it when the text shows that you can. You can do this multiple ways, the one that we found that worked for us was to run in with two runners, they get their single buff and run out, shoot the obelisk, and swap with the add clears. Rinse and repeat until all of the buffs are deposited. There are other ways to do this, of course, and we're open ears to any and all strategies to do this more effectively.
+The Challenge for this encounter is fairly straightforward: each Runner can only dunk ONE buff from inside at a time. The two Runners will run in, each grab a single buff, run out and shoot it when the text shows that they can. You can do this multiple ways, the one that we found that worked for us was to run in with two runners, they get their single buff and run out, shoot the obelisk, and swap with the add clears. Rinse and repeat until all of the buffs are deposited. There are other ways to do this, of course, and we're open ears to any and all strategies to do this more effectively.
 
 ### Symbols Graphic and Encounter Diagram
 
