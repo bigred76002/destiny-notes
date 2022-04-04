@@ -436,11 +436,12 @@ This is actually one of the easier ones to do! You really need two people to do 
  * The last one is going to be where the flag would be for the raid, on top of the building you first drop in on. 
  
  There you go! That's the first five!
+
+#### Raid Section  
  
  :warning: **!!!IMPORTANT!!!** :warning:
  This section has changed! 
  
-#### Raid Section 
 First encounter CP's no longer work for this! Right before the first encounter you will run into a room that has all of the raid's symbols. You will see this on the Preservation mission as well, and will only be able to do it once per run. 
 
 * On the right side of the room there are windows with bars in them, one of them will not. 
