@@ -415,6 +415,9 @@ Known symbol locations -
 * Guardian - Right after 3rd encounter. Up stairs on left. Crystal is floating off of ledge and room is 180 from the direction of boss arena.
 * Kill - RIGHT before boss arena. Jump up multi-level platforms leading to final doors to boss. Crystal 180 degrees from direction of boss arena, in the air. Opens door on right (facing boss)."
 
+ #### Room Locations Graphic
+ <img src="https://raw.githubusercontent.com/bigred76002/destiny-notes/main/vow-of-the-disciples-resources/room-location-image.jpg" width=500>
+ 
  
  ## Ghost Shell
  
@@ -432,20 +435,24 @@ This is actually one of the easier ones to do! You really need two people to do 
  
  There you go! That's the first five!
  
+ :warning: **!!!IMPORTANT!!!** :warning:
+ This section has changed! 
+ 
 #### Raid Section 
-You will want to get a first encounter CP for this! Right before the first encounter you will run into a room that has all of the raid's symbols. You will see this on the Preservation mission as well, but only able to do it once per run. It's far easier to backtrack from a first encounter CP. 
+First encounter CP's no longer work for this! Right before the first encounter you will run into a room that has all of the raid's symbols. You will see this on the Preservation mission as well, and will only be able to do it once per run. 
 
 * On the right side of the room there are windows with bars in them, one of them will not. 
      * Jump through this one. 
  * In this next room you will find four sets of three symbols and an action to Reset the room. 
-      * All you need are the middle two sets!
-      * It will start at the top with "Guardian" then "Enter/Commune" and then the symbol you need to interact with.
+      * You now need all four symbols!
+      * It will start at the top with "Guardian" then "Enter/Commune/Kill" and then the symbol you need to interact with.
       * These symbols follow the standard designations as seen in the second encounter guide and as below.
- * To "Enter" a symbol, use a melee attack on the corresponding symbol in the room.
+ * To "Enter" a symbol you will stand in front of it.
+ * To "Kill" a symbol you will need to shoot it.
  * To "Commune" with a symbol simply interact with it.
- * These must be done at the same time and the "Commune" interaction takes approximately two seconds. We did a three second countdown and the person "Communing" simply started the interaction on "two."
+ * The Kill and Commune must be done at the same time and the "Commune" interaction takes approximately two seconds. We did a three second countdown and the person "Communing" simply started the interaction on "two."
  
- Just that simple! Start the first encounter, wipe, and repeat this until you have the remaining five. 
+ Just that simple! 
  
  
  #### Symbol Room Map
