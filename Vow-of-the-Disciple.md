@@ -295,6 +295,7 @@ Once you have killed the two Taken Knights and have the two correct symbols, ope
 This challenge requires you to have each member of the fireteam only kill a maximum of ONE Taken Knight to extend the timer. Since there are seven knights and six fireteam members, there will be one that you skip. We recommend skipping the second one in the second room as you usually do not need the extra time that it gives. Just be efficient and it'll be fine. 
 
 cpTylor came up with this spread sheet to streamline the process:
+
 <img src="https://raw.githubusercontent.com/bigred76002/destiny-notes/main/vow-of-the-disciples-resources/3rd%20Encounter%20Challenge.jpg" width=450>
 
 As you can see, the best way to manage this is again going in pairs. Players "A" and "B" will pair, "C" and "D", and "E" and "F". This keeps the relics moving and allows an easy reference for in the moment. If in doubt who's going to be what, go off fireteam order in the roster. :)
@@ -390,7 +391,7 @@ Full DPS phase comes after enough dunks.
 After your first successful run per week PER ACCOUNT you will have the ability to purchase ONE Resonant (red bordered) weapon for 20 spoils. You will be given the option from all the ones that you have unlocked so far. Subsequent purchases made are random rolls. Make sure to pick one up as you will need 5 to craft them. 
 
 ### "Looping Catalyst" Challenge
-More info coming...
+The challenge is one that we inherently strive for: don't lose the Leeching buff in the first stage area of the boss encounter. Just have the player with the buff stay alive and out of the beams from the boss and you're golden.
 
 ### "Symmetrical Energy" Triumph
 Any energy deposit in Dominion must be accompanied by another deposit within 5 seconds.
