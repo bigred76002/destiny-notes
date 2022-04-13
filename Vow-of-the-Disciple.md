@@ -292,7 +292,12 @@ Once you have killed the two Taken Knights and have the two correct symbols, ope
     
 
 ### "Defenses Down" Challenge
-More info coming....
+This challenge requires you to have each member of the fireteam only kill a maximum of ONE Taken Knight to extend the timer. Since there are seven knights and six fireteam members, there will be one that you skip. We recommend skipping the second one in the second room as you usually do not need the extra time that it gives. Just be efficient and it'll be fine. 
+
+cpTylor came up with this spread sheet to streamline the process:
+<img src="https://raw.githubusercontent.com/bigred76002/destiny-notes/main/vow-of-the-disciples-resources/3rd%20Encounter%20Challenge.jpg" width=450>
+
+As you can see, the best way to manage this is again going in pairs. Players "A" and "B" will pair, "C" and "D", and "E" and "F". This keeps the relics moving and allows an easy reference for in the moment. If in doubt who's going to be what, go off fireteam order in the roster. :)
 
 ### "Glyph to Glyph" Triumph
 For this triumph you must kill each set of Glyphkeepers within 5 seconds of each other.
