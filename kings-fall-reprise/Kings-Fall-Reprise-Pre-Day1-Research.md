@@ -10,12 +10,13 @@ If you have suggestions, comments, or critiques (and you're not from the Revive 
 
 _**Table of Contents**_
 1. [Portal to Oryx's Ship]()
-2. [Tomb Ships]()
-3. [Totams]()
-4. [Warpriest]()
-5. [Golgoroth]()
-6. [Daughters of Oryx]()
-7. [Oryx the Taken King]()
+1. [Tomb Ships]()
+1. [Totams]()
+1. [Warpriest]()
+1. [Golgoroth's Maze]()
+1. [Golgoroth]()
+1. [Daughters of Oryx]()
+1. [Oryx the Taken King]()
 
 ## Portal to Oryx's Ship
 
@@ -103,9 +104,33 @@ _**Table of Contents**_
 * Once a player has the 5 stacks of Brand of the Initiate, DPS starts. Here's the mechanics:
   * This buff has a 10s timer. If the timer reaches zero, the player holding this buff dies and the buff is transmitted to someone else. We don't want that.
   * To reset the timer, the player with Brand of the Initiate will need to kill an enemy. There will be lots of them, but they may hide.
-  * Whenever the timer is reset,  one stack of the Brand of the Initiate buff will be removed, meaning that the team will have at max `5 x 10s + 10s = 1min` of DPS.
+  * Whenever the timer is reset, one stack of the Brand of the Initiate buff will be removed, meaning that the team will have at max `5 x 10s = 50s` of DPS.
   * Every one else will see an aura near the player with the Brand of the Initiate. Once you're inside of that aura, you should see a buff called `Aura of the Initiate`. With that buff, you can damage the boss.
+* Once DPS has ended, if the boss didn't die, the Warpriest will initiate a wipe mechanic. The whole room will glow white, and only way not to die is to hide before the pillars.
+  * Make sure you're within the shade created by the pillar.
+  * When the wipe mechanic is done, **the pillar will will be destroyed.** That means that the team will not be able to hide there anymore.
+  * After 3 damage phases, there will not be any pillars to hide, so the fourth damage phase is the last chance to kill the boss.
 
 **Strategy:**
+* Roles:
+  * Pick one player as the holder of the Brand of the Initiate. Make sure to have single target damage weapon for adds. DO NOT USE AOE WEAPONS, you want to pace killing adds as much as possible. Mobility is desirable.
+  * Pick one player as Crystal Observer. Good resilience to tank a few shots from the boss as you're looking at Crystals.
+* Start by spreading across the map and kill adds.
+* Once `Glyph sequence started` is seen on the screen, the Crystal Observed goes to its position as shown in the map above.
+* Anyone, EXCEPT for the player who will hold Brand of the Initiate, will step on the plate that the Crystal Observer calls out for the 1st and 2nd times.
+* The remaining plate should be stepped on by the player assigned to hold of the Brand of the Initiate only - and only after the Crystal Observer calls out to avoid stepping onto that plate too early.
+* That initiates DPS:
+  * Everyone goes near the player holding Brand of the Initiate, and make sure to receive Aura of the Initiate. Start DPS.
+  * The player holding Brand of the Initiate will, however, focus on the timer and killing adds once the timer is low enough. Many guides mention adds may try and hide, so it may be a good idea to not distract yourself with DPS during this phase, otherwise deaths may snowball the team into a wipe.
+  * Once the last stack of Brand of the Initiate is removed, everyone hides behind the pillar.
+  * Wait for the wipe mechanic.
+* Rinse and repeat exactly the same thing.
 
-**Final callouts:**
+## Golgoroth's Maze
+
+**Overall goal:** Make it alive. See map below. Potentially look for a secret chest (go through plates in the right order).
+
+<img src="https://github.com/cptylor/destiny-notes/raw/main/kings-fall-reprise/golgoroth-maze.png" width="500">
+
+
+## Golgoroth
