@@ -13,7 +13,7 @@ _**Table of Contents**_
 1. [Tomb Ships]()
 1. [Totams]()
 1. [Warpriest]()
-1. [Golgoroth's Maze]()
+1. [Golgoroth's Cellar]()
 1. [Golgoroth]()
 1. [Daughters of Oryx]()
 1. [Oryx the Taken King]()
@@ -126,11 +126,12 @@ _**Table of Contents**_
   * Wait for the wipe mechanic.
 * Rinse and repeat exactly the same thing.
 
-## Golgoroth's Maze
+## Golgoroth's Cellar
 
 **Overall goal:** Make it alive. See map below. Potentially look for a secret chest (go through plates in the right order).
 
-<img src="https://github.com/cptylor/destiny-notes/raw/main/kings-fall-reprise/golgoroth-maze.png" width="500">
+<img src="https://i.imgur.com/7syzQcC.png" width="600">
 
+Figure above provided by u/Taux on this [Reddit Thread](https://www.reddit.com/r/DestinyTheGame/comments/3lzji8/spoiler_hd_golgoroths_cellar_map/). Huge shoutout to Taux!
 
 ## Golgoroth
