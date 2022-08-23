@@ -46,6 +46,8 @@ _**Table of Contents**_
 * Once you reach another platform, there will be adds.
 * Then a last ship will be waiting for the team. Someone needs to ride it across a portal, while others stand on a plate so a barrier de-activates. Once across the map, the guardian(s) who were riding the ship now stand on plates so the remaining team mates can go through.
 
+To facilitate, here's a video demonstrating it by Eso: https://www.youtube.com/watch?v=xN34G8JauMo
+
 **Final callouts:**
 * This area has the first secret chest of the D1 raid. Before making across the portal, jumpon the left wall and walk it upwards for a small entrance.
 
@@ -185,13 +187,42 @@ Figure above provided by u/Taux on this [Reddit Thread](https://www.reddit.com/r
 * At the end, there will be three plates. Guardians need to stand on them to allow others to continue forward.
 * People used to cheese this by using sword light attack against the inclined wall.
 
+See this video for visuals: https://www.youtube.com/watch?v=Xdt-ZJYc8q8
+
 ## Daughters of Oryx
 
-**Overall goal:**
+**Overall goal:** Two bosses that need to be taken down close together, with precision damage multiplier. To damage either of the bosses, a randomly selecteed player need to grab an orb and dunk on the respective boss. Survivability is key in this encounter tho.
 
 **General Setup and Mechanics:**
+* Encounter starts with the two daughters in the center, one each side. One at a time will sing, and visually will grow red. Keep that in mind. See map below.
+* One player will randomly gain the `Torn Between Dimensions` buff, and will look like it's being "taken" - Let's call this player the "Taken Player." That player will be the only one who can climb a set of platforms and grab the orb necessary to trigger DPS.
+* Once a player gets `Torn Between Dimensions`:
+  * The Taken Player will need to look up and see where the orb is. It will be immediately above one of the four plates (see map below).
+  * The Taken Player will then **move towards the first plate counter-clockwise from the plate with the objective above it**.
+  * Four other players will now need to step on one plate at a time, following a counter-clockwise sequence. If the sequence is incorrect, the Taken Player will not be able to continue climb. See map below for an example where the taken orb appears on the top right plate.
+  * Once the Taken Player has reached the orb, they will be able to grab it to gain the `Brand Claimer` buff. This can be dunked by interacting with one of the Daughters of Oryx. This triggers DPS on the Daughter of Oryx in which the buff was dunked.
+  * If one of the Daughter of Oryx is killed, then the other **must be killed on the next damage phase.** Otherwise, this is a team wipe.
+* While the team is going after the taken orb, there will be a timer on everyone's screen. Dunking the orb needs to be done before that timer ends.
+* I do not understand the wiping mechanic related to the aura as of yet surrounding the Taken Player, so leaving this comment for now.
 
-**Strategy:**
+<img src="https://github.com/cptylor/destiny-notes/raw/main/kings-fall-reprise/daughters.png" width="500">
+
+**Strategy (fixed player rotation, moving pillars):**
+* Team designation:
+  * Decide where DPS will be done from (e.g. next to where the Daughters of Oryx stand).
+  * Designate Players 1-4. They will stand on plates in that order, always.
+  * Designate the Sub Player. If the taken player happens to be one of the Players 1-4, then the Sub Player will sub for the Taken Player and step on the respective order. For instance, if Player 3 is the Taken player, then the Sub Player will step on the third plate.
+* Wait until a player gets `Torn Between Dimensions`. That player is the Taken Player for that round.
+* Taken player calls out the location of the orb, and directs themselves to the first pillar (i.e. the first one counter-clockwise after the pillar with the take orb above it).
+* One other player follows the Taken Player and stands on the first plate.
+* In order, another three players stand on the plates following a counter-clockwise order.
+* Taken player grabs the orb and lets everyone know he's now moving down for DPS.
+* Everyone **gathers together on the opposite side from the daughter that is not singing.** Taken player deposits the taken orb on the Daughter that is not singing.
+  * This will make it easier to damage that Daughter of Oryx since it will be standing still instead of moving its head (crit spot).
+* Everyone DPSs the that Daughter of Oryx.
+* Repeat, however....
+  * **If the Daughter of Oryx did not die, do not repeat DPS on the same Daughter.** Alternate the Daughter of Oryx receiving damage and make sure you can kill both in back-to-back damage phase. Otherwise, the team wipes.
+  * As far as I could understand, there is no limit to the number of damage phases, so the wipe mechanic is related to killing both back to back, rather than a predetermined set number of damage phases.
 
 ## Oryx, the Taken Kings
 
