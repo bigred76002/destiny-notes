@@ -89,6 +89,8 @@ _**Table of Contents**_
 
 **General setup:**
 
+<img src="https://github.com/cptylor/destiny-notes/raw/main/kings-fall-reprise/warpriest-schematics.png" width="700">
+
 
 **Strategy:**
 
