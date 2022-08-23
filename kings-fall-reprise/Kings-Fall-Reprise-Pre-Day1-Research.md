@@ -1,5 +1,4 @@
-# D1 Notes on Kings Fall
-## Revive Me Maybe - Prep Guide
+# D1 Notes on Kings Fall - Prep Guide, Team Revive Me Maybe
 
 _by cpTylor_
 
@@ -135,3 +134,13 @@ _**Table of Contents**_
 Figure above provided by u/Taux on this [Reddit Thread](https://www.reddit.com/r/DestinyTheGame/comments/3lzji8/spoiler_hd_golgoroths_cellar_map/). Huge shoutout to Taux!
 
 ## Golgoroth
+
+...
+
+## Daughters of Oryx
+
+...
+
+## Oryx, the Taken Kings
+
+...
