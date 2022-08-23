@@ -8,14 +8,14 @@ If you have suggestions, comments, or critiques (and you're not from the Revive 
 
 
 _**Table of Contents**_
-1. [Portal to Oryx's Ship]()
-1. [Tomb Ships]()
-1. [Totams]()
-1. [Warpriest]()
-1. [Golgoroth's Cellar]()
-1. [Golgoroth]()
-1. [Daughters of Oryx]()
-1. [Oryx the Taken King]()
+1. [Portal to Oryx's Ship](https://github.com/bigred76002/destiny-notes/blob/main/kings-fall-reprise/Kings-Fall-Reprise-Pre-Day1-Research.md#portal-to-oryxs-ship)
+1. [Tomb Ships](https://github.com/bigred76002/destiny-notes/blob/main/kings-fall-reprise/Kings-Fall-Reprise-Pre-Day1-Research.md#tomb-ships)
+1. [Totems](https://github.com/bigred76002/destiny-notes/blob/main/kings-fall-reprise/Kings-Fall-Reprise-Pre-Day1-Research.md#totems)
+1. [Warpriest](https://github.com/bigred76002/destiny-notes/blob/main/kings-fall-reprise/Kings-Fall-Reprise-Pre-Day1-Research.md#warpriest)
+1. [Golgoroth's Cellar](https://github.com/bigred76002/destiny-notes/blob/main/kings-fall-reprise/Kings-Fall-Reprise-Pre-Day1-Research.md#golgoroths-cellar)
+1. [Golgoroth](https://github.com/bigred76002/destiny-notes/blob/main/kings-fall-reprise/Kings-Fall-Reprise-Pre-Day1-Research.md#golgoroth)
+1. [Daughters of Oryx](https://github.com/bigred76002/destiny-notes/blob/main/kings-fall-reprise/Kings-Fall-Reprise-Pre-Day1-Research.md#daughters-of-oryx)
+1. [Oryx the Taken King](https://github.com/bigred76002/destiny-notes/blob/main/kings-fall-reprise/Kings-Fall-Reprise-Pre-Day1-Research.md#oryx-the-taken-kings)
 
 ## Portal to Oryx's Ship
 
@@ -52,7 +52,7 @@ _**Table of Contents**_
 
 **Overall goal:** Charge a door in the center of the map, opening it. Progress is shown as symbols next to the door start glowing blue-ish. Door is charged by dunking the Deathsingers Power buff on a large central plate.
 
-<img src="https://github.com/cptylor/destiny-notes/raw/main/kings-fall-reprise/totems.png" width="600">
+<img src="https://github.com/cptylor/destiny-notes/raw/main/kings-fall-reprise/totems.png" width="750">
 
 **General Setup and Mechanics:**
 * Optimize for survivability and mob-clearing weapons. There should be a few strong enemies, so a good burst-damage special weapon will probably be a good choice.
