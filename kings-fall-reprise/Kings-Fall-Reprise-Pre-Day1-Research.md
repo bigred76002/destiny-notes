@@ -52,6 +52,8 @@ _**Table of Contents**_
 
 **Overall goal:** Charge a door in the center of the map, opening it. Progress is shown as symbols next to the door start glowing blue-ish. Door is charged by dunking the Deathsingers Power buff on a large central plate.
 
+<img src="https://github.com/cptylor/destiny-notes/raw/main/kings-fall-reprise/totems.png" width="600">
+
 **General Setup and Mechanics:**
 * Optimize for survivability and mob-clearing weapons. There should be a few strong enemies, so a good burst-damage special weapon will probably be a good choice.
 * Two groups of three guardians, one for each side of the map.
