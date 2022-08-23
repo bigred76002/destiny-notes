@@ -205,7 +205,7 @@ See this video for visuals: https://www.youtube.com/watch?v=Xdt-ZJYc8q8
 * While the team is going after the taken orb, there will be a timer on everyone's screen. Dunking the orb needs to be done before that timer ends.
 * I do not understand the wiping mechanic related to the aura as of yet surrounding the Taken Player, so leaving this comment for now.
 
-<img src="https://github.com/cptylor/destiny-notes/raw/main/kings-fall-reprise/daughters.png" width="500">
+<img src="https://github.com/cptylor/destiny-notes/raw/main/kings-fall-reprise/daughters.png" width="700">
 
 **Strategy (fixed player rotation, moving pillars):**
 * Team designation:
@@ -226,7 +226,7 @@ See this video for visuals: https://www.youtube.com/watch?v=Xdt-ZJYc8q8
 
 ## Oryx, the Taken Kings
 
-**Overall goal:**
+**Overall goal:** Defeat Oryx by slowly damaging the boss and staying alive. Interestingly, you don't DPS Oryx (as in, it's not about lots of damage per second). This will be done via a very similar mechanic as in the [Daughters of Oryx](https://github.com/bigred76002/destiny-notes/blob/main/kings-fall-reprise/Kings-Fall-Reprise-Pre-Day1-Research.md#daughters-of-oryx).
 
 **General Setup and Mechanics:**
 
