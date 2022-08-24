@@ -226,8 +226,37 @@ See this video for visuals: https://www.youtube.com/watch?v=Xdt-ZJYc8q8
 
 ## Oryx, the Taken Kings
 
-**Overall goal:** Defeat Oryx by slowly damaging the boss and staying alive. Interestingly, you don't DPS Oryx (as in, it's not about lots of damage per second). This will be done via a very similar mechanic as in the [Daughters of Oryx](https://github.com/bigred76002/destiny-notes/blob/main/kings-fall-reprise/Kings-Fall-Reprise-Pre-Day1-Research.md#daughters-of-oryx).
+**Overall goal:** Defeat Oryx by slowly damaging the boss and staying alive. Interestingly, you don't DPS Oryx (as in, it's not about lots of damage per second). You'll need a weapon for burst damage, but mostly for knights and ogres. This will be done via a very similar mechanic as in the [Daughters of Oryx](https://github.com/bigred76002/destiny-notes/blob/main/kings-fall-reprise/Kings-Fall-Reprise-Pre-Day1-Research.md#daughters-of-oryx).
 
 **General Setup and Mechanics:**
+* Same map as [Daughters of Oryx](https://github.com/bigred76002/destiny-notes/blob/main/kings-fall-reprise/Kings-Fall-Reprise-Pre-Day1-Research.md#daughters-of-oryx).
+* Damage phase is triggered by a player again grabbing a taken orb.
+  * Oryx will slam one of the 4 plates. The player which steps on that plate right after the slam will climb platforms to grab a taken orb. Let's call this player the _runner_.
+  * After the runner steps into the first plate, four other players need to step into the other players in a counter-clockwise order.
+  * Enemies will start spawning. Ogres should take precedence and be killed as they spawn, as they are related to DPS (more about it later).
+  * While players stay on plates, the runner climbs the platforms and grabs the taken orb. Once the runner is ready, they will let everyone else know that they're done and going back down.
+  * A special knight called Vessel of Oryx will spawn in the middle, in the middle of a mist. The runner should go into the mist and kill the knight. All other players can help. Once the knight is down, the runner will be involved in a mist which gives immunity to other players. This triggers the damage phase
+* Once the damage phase starts, Oryx needs to be stunned and then taken blights need to be detonated.
+  * Oryx will expose a taken blight thingy in his stomach and start a wipe mechanic. Players need to shoot its stomach to stun Oryx.
+  * Once he's stunned, four taken blights will spawn, one where each Ogre spawned. If Ogres were killed very quickly, then they should be close to each of the pillars. Once a player enters the blight area and stays for a few seconds, it will trigger a detonation. The detonation is confirmed by a message prompt stating `Player X has detonated a Corrupted Light`.
+  * To avoid dying, the player detonating a blight should run back to the mist around the runner.
+* Each exploded blight accounts for a single unit/burst of damage to Oryx. Oryx will take a total of 16 blight detonations to die.
+* In between each rotation (:warning: need to check if this is the right), dark opaque mist will appear near the far side of the map.
+  * Players will be slowly teleported into the mist, one at a time. Inside the mist, there health does not regenerate normally.
+  * Inside of the mist, the Shade of Oryx will be hiding and will eventually enter the arena a attack with its large sword.
+  * Taken adds will try to enter the mist to attack players inside it. Those outside should try and kill them before they make it to the mist. Players inside should look out for adds given that health doesn't regenerate.
+* Once the eighth blight is detonated, Oryx will start a new attack: He will shoot falling stars/meteors from the sky, which have large AOE damage.
 
 **Strategy:**
+* Select one player to be the runner. That player will always step into the plate that Oryx slams.
+* Nominate players 1-4 to step on each of the plates in counter-clockwise order.
+* Runner goes up, grabs the orb, kills the Vessel of Oryx with the help of others and runs to the center.
+* In the meantime, everyone else focuses on Ogres and snipers.
+* Once the runner stands on the center, everyone focuses on Oryx's stomach to stun him.
+* Once Oryx is stunned, runner stays put, and players 1-4 should run to the blights closest to their plates, wait until the detonation message pops up, then move back to the center. The reason why the runner stays in the center is because that should give almost the same distance for all players to run back.
+* Once that's done, deal with the Shade of Oryx.
+* After the 8th blight detonates:
+  * Every player should run around, and not stay in place. It may be good to split locations around the map so that the AOE damage from meteors following one player doesn't kill another player by accident.
+* After the 16th blight detonates:
+  * A final stand will be trigger, where Oryx will be on the far side of the map, and will attempt one last wipe mechanic. Once that happens, everyone focuses fire on his stomach until he stuns one last time.
+  * This ends the encounter and the raid.
